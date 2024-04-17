@@ -1,1 +1,1 @@
-# Images
+Images in this folder.
